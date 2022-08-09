@@ -1,6 +1,6 @@
 # HACKINTOSH-MONTEREY-FOR-MSI-GF63-9SCSR
 
-Custom Boot Entry Using RefindPlus
+#Custom Boot Entry Using RefindPlus
 system: Triple BOOT EFI using Windows 11, Kali Linux & Hackintosh Monterey
 
 - Merk   : MSI GF63 9SCSR
